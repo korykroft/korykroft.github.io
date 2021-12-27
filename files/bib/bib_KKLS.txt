@@ -1,0 +1,9 @@
+@article{kroft2020optimal,
+  title={Optimal Income Taxation with Unemployment and Wage Responses: a Sufficient Statistics Approach},
+  author={Kroft, Kory and Kucko, Kavan and Lehmann, Etienne and Schmieder, Johannes},
+  journal={American Economic Journal: Economic Policy},
+  volume={12},
+  number={1},
+  pages={254--92},
+  year={2020}
+}

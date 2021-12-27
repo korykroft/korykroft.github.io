@@ -1,0 +1,9 @@
+@article{chetty2009salience,
+  title={Salience and Taxation: Theory and Evidence},
+  author={Chetty, Raj and Looney, Adam and Kroft, Kory},
+  journal={American economic review},
+  volume={99},
+  number={4},
+  pages={1145--77},
+  year={2009}
+}

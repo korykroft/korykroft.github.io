@@ -1,0 +1,6 @@
+@techreport{kroft2020salience,
+  title={Salience and Taxation with Imperfect Competition},
+  author={Kroft, Kory and Lalibert{\'e}, Jean-William P and Leal-Vizca{\'\i}no, Ren{\'e} and Notowidigdo, Matthew J},
+  year={2020},
+  institution={National Bureau of Economic Research}
+}

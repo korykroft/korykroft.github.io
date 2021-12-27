@@ -1,0 +1,10 @@
+@article{kroft2013duration,
+  title={Duration Dependence and Labor Market Conditions: Evidence from a Field Experiment},
+  author={Kroft, Kory and Lange, Fabian and Notowidigdo, Matthew J},
+  journal={The Quarterly Journal of Economics},
+  volume={128},
+  number={3},
+  pages={1123--1167},
+  year={2013},
+  publisher={MIT Press}
+}

@@ -1,0 +1,10 @@
+@article{kroft2019long,
+  title={Long time out: Unemployment and joblessness in Canada and the United States},
+  author={Kroft, Kory and Lange, Fabian and Notowidigdo, Matthew J and Tudball, Matthew},
+  journal={Journal of Labor Economics},
+  volume={37},
+  number={S2},
+  pages={S355--S397},
+  year={2019},
+  publisher={The University of Chicago Press Chicago, IL}
+}

@@ -1,0 +1,8 @@
+@article{kroft2021parallel,
+  title={Parallel Inverse Aggregate Demand Curves in Discrete Choice Models},
+  author={Kroft, Kory and Leal-Vizca{\'\i}no, Ren{\'e} and Notowidigdo, Matthew J and Wang, Ting},
+  journal={Economic Theory},
+  pages={1--24},
+  year={2021},
+  publisher={Springer}
+}

@@ -1,0 +1,10 @@
+@article{kroft2008takeup,
+  title={Takeup, Social Multipliers and Optimal Social Insurance},
+  author={Kroft, Kory},
+  journal={Journal of Public Economics},
+  volume={92},
+  number={3-4},
+  pages={722--737},
+  year={2008},
+  publisher={Elsevier}
+}

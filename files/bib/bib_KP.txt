@@ -1,0 +1,10 @@
+@article{kroft2014does,
+  title={Does Online Search Crowd Out Traditional Search and Improve Matching Efficiency? Evidence from Craigslist},
+  author={Kroft, Kory and Pope, Devin G},
+  journal={Journal of Labor Economics},
+  volume={32},
+  number={2},
+  pages={259--303},
+  year={2014},
+  publisher={University of Chicago Press Chicago, IL}
+}

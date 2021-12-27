@@ -1,0 +1,10 @@
+@article{kroft2016should,
+  title={Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence},
+  author={Kroft, Kory and Notowidigdo, Matthew J},
+  journal={The Review of Economic Studies},
+  volume={83},
+  number={3},
+  pages={1092--1124},
+  year={2016},
+  publisher={Wiley-Blackwell}
+}

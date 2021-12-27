@@ -1,0 +1,6 @@
+@techreport{huneeus2021earnings,
+  title={Earnings Inequality in Production Networks},
+  author={Huneeus, Federico and Kroft, Kory and Lim, Kevin},
+  year={2021},
+  institution={National Bureau of Economic Research}
+}

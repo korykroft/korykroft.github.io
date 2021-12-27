@@ -1,0 +1,10 @@
+@article{kroft2016long,
+  title={Long-term Unemployment and the Great Recession: the Role of Composition, Duration Dependence, and Nonparticipation},
+  author={Kroft, Kory and Lange, Fabian and Notowidigdo, Matthew J and Katz, Lawrence F},
+  journal={Journal of Labor Economics},
+  volume={34},
+  number={S1},
+  pages={S7--S54},
+  year={2016},
+  publisher={University of Chicago Press Chicago, IL}
+}
