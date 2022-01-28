@@ -14,6 +14,9 @@ blockquote p { font-size: 16px; line-height: 1.6em; }
 h3.text-muted a {text-decoration: none; color: #000000; }
 h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 
+h5.text-muted a {text-decoration: none; color: #000000; }
+h5.text-muted a:hover { text-decoration: none; color: #0088cc; }
+
 img.avatar { margin-bottom: 30px; }
 		
 /* Custom container */
