@@ -1,6 +1,6 @@
-@techreport{kroft2021efficiency,
+@techreport{kroft2022efficiency,
   title={Efficiency and Incidence of Taxation with Free Entry and Love-of-Variety Preferences},
   author={Kroft, Kory and Lalibert{\'e}, JW and Vizca{\'\i}no, RL and Notowidigdo, M},
-  year={2021},
+  year={2022},
   institution={Working Paper 28838, NBER}
 }
