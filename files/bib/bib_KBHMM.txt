@@ -1,6 +1,10 @@
 @techreport{baker2019pay,
   title={Pay Transparency and the Gender Gap},
   author={Baker, Michael and Halberstam, Yosh and Kroft, Kory and Mas, Alexandre and Messacar, Derek},
-  year={2019},
-  institution={National Bureau of Economic Research}
+  year={2023},
+  institution={American Economic Journal: Applied Economics}
+  volume={15},
+  number={2},
+  pages={157-183},
+  year={2023}
 }
