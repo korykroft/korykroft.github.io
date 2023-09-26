@@ -1,4 +1,4 @@
-@techreport{baker2019pay,
+@article{kroft2023paytransparency,
   title={Pay Transparency and the Gender Gap},
   author={Baker, Michael and Halberstam, Yosh and Kroft, Kory and Mas, Alexandre and Messacar, Derek},
   year={2023},
